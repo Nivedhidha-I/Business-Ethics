@@ -5,7 +5,7 @@ This project explores the intersection of **AI Governance**, **Business Ethics**
 ## Overview
 I analyzed the **Deliveroo "Frank" Algorithm**. This system used automated rankings to manage riders but was found discriminatory because it couldn't differentiate between "unreliability" and legal absences like illness or strikes.
 
-## The Solution
+## Solutions
 My research proposes:
 1. **Explainable AI:** Opening the "Black Box" so outcomes are understandable.
 2. **Inclusive Governance:** Using an **AI Ethics Committee** with stakeholder representatives to review system classifications.
